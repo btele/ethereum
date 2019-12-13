@@ -1,6 +1,6 @@
 {
-  "name": "digitaldonkey/ethereum-php",
-  "description": "A library integrating Ethereum with typed PHP.",
+  "name": "digitaldonkey/ethereum",
+  "description": "A library integrating Ethereum with typed PHP",
   "require": {
     "php": ">=7.1",
     "ext-json": "*",

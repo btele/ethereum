@@ -17,11 +17,11 @@ Check out the latest [API documentation](http://ethereum-php.org/dev/).
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/digitaldonkey/ethereum-php.git"
+      "url": "https://github.com/btele/ethereum.git"
     }
   ],
   "require": {
-    "digitaldonkey/ethereum-php": "dev-master"
+    "digita1donkey/ethereum-php": "dev-master"
   }
 }
 ```
@@ -30,7 +30,7 @@ Check out the latest [API documentation](http://ethereum-php.org/dev/).
 
 
 ```sh
-composer require digitaldonkey/ethereum-php
+composer require digita1donkey/ethereum-php
 ```
 
 This is the important part of [composer.json](https://github.com/digitaldonkey/ethereum/blob/8.x-1.x/composer.json) in [Drupal Ethereum Module](https://drupal.org/project/ethereum).

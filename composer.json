@@ -1,5 +1,5 @@
 {
-  "name": "digita1donkey/ethereum",
+  "name": "digita1donkey/ethereum-php",
   "description": "A library integrating Ethereum with typed PHP",
   "require": {
     "php": ">=7.1",
